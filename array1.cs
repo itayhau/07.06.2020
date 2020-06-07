@@ -10,7 +10,7 @@ namespace today0706
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!!");
 
             int student1 = 0;
             int student2 = 0;
